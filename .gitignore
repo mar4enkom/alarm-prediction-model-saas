@@ -1,0 +1,6 @@
+# .gitignore file
+.venv/
+__pycache__/
+predict.csv
+test.csv
+train.csv
